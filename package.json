@@ -1,0 +1,23 @@
+{
+  "name": "afteroffice-final-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyohimawan/AfterOffice-Final-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyohimawan/AfterOffice-Final-Project/issues"
+  },
+  "homepage": "https://github.com/tyohimawan/AfterOffice-Final-Project#readme",
+  "devDependencies": {
+    "cypress": "^14.4.0"
+  }
+}
