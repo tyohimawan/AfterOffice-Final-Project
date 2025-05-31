@@ -19,5 +19,8 @@
   "homepage": "https://github.com/tyohimawan/AfterOffice-Final-Project#readme",
   "devDependencies": {
     "cypress": "^14.4.0"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1"
   }
 }

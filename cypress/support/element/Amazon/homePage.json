@@ -1,0 +1,4 @@
+{
+    "searchField": "//input[contains(@placeholder,'Search Amazon')]",
+    "searchButton": "//input[type='submit'][value='Go']"
+}

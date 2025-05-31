@@ -1,0 +1,6 @@
+{
+    "expandAirline": "//span[contains(text(), 'Tampilkan semua') and contains(text(), 'maskapai')]",
+    "selectAirline": "//label[@data-element-name='flight-filter-airline-item' and @data-element-value='${airline}']",
+    "selectFlight": "//button[@data-element-name='flight-select-button' and @data-element-value='${flight}']",
+    "earlyFlight": "(//div[@data-testid='web-refresh-flights-card'])[1]//p[text()='${airlineName}']"
+}

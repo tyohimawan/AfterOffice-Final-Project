@@ -1,0 +1,8 @@
+{
+    "plane": "//li[@data-element-name='flight-tab']//h6[text()='Pesawat']",
+    "fromOrigin": "//input[@id='flight-origin-search-input']",
+    "toDestination": "//input[@id='flight-destination-text-search']",
+    "departureDate": "//div[@data-element-name='flight-departure']",
+    "searchFlight": "//button[@data-element-name='flight-search']",
+    "searchResult": "//li[@data-element-name='flight-origin-search-result' and contains(@data-element-value, '${city}')]"
+}
